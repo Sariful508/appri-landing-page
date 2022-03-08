@@ -1,0 +1,266 @@
+@media (max-width: 1199px) {
+  #header .navbar .navbar-nav .nav-link {
+    margin-left: 0; }
+  #header .navbar .navbar-nav .btn {
+    margin-top: -7px;
+    padding-top: 14px;
+    height: 44px;
+    width: 115px; }
+  #banner .banner-content h1 {
+    font-size: 53px; }
+  #banner .shap .shap2 {
+    bottom: 28%;
+    right: 40%; }
+  #features .features-content .features-text p {
+    margin-right: 0; }
+  #works .first-content h3 {
+    font-size: 30px; }
+  #pricing .nav-link {
+    padding: 9px 19px !important; }
+  #blog .blog-post .blog-content {
+    bottom: -64%; } }
+
+@media (max-width: 991px) {
+  #header .navbar .nav-link {
+    padding: 19px 0; }
+  #header .navbar .navbar-brand {
+    margin-top: -40px !important; }
+  #header .navbar .navbar-nav .btn {
+    margin: 20px -18px; }
+  #banner {
+    background: url("../img/banner/banner.png") no-repeat center left/cover;
+    min-height: 800px; }
+    #banner .shap .shap1 {
+      top: 22%; }
+    #banner .shap .shap2 {
+      bottom: 22%;
+      right: 5%; }
+  .btn2 {
+    border: 0;
+    background: #5844E6; }
+  #numbering .download-app h2::after {
+    right: -16px; }
+  #video {
+    min-height: 550px; }
+  #works .first-content p {
+    font-size: 20px; }
+  #pricing .pricing-title p {
+    margin-left: 0; }
+  #pricing .card {
+    margin-bottom: 30px; }
+  #testimonial .testimonial-title h2 {
+    margin-top: 0; }
+  #testimonial .pt-5 {
+    padding-top: 0 !important; }
+  #blog .blog-post .blog-content {
+    bottom: -43%; }
+  #blog .blog-content.text-left.px-5.py-4.shadow-lg {
+    margin: 0 38px; }
+  #blog .blog-post .blog-content {
+    margin: 0 55px; }
+  #subscribe .bg-color {
+    padding: 10px 0; }
+  #appStore img {
+    width: 49%; } }
+
+@media (max-width: 767px) {
+  #banner .banner-content h1 {
+    font-size: 51px; }
+  #banner .shap .shap1 {
+    top: 19%;
+    left: 79%; }
+  #banner .shap .shap2 {
+    bottom: 31%;
+    right: 5%;
+    width: 8%; }
+  #banner .btn {
+    outline: 0;
+    border: 0; }
+  #banner .btn:hover {
+    border: 0; }
+  #banner .btn2 {
+    padding: 21px 67px; }
+  #features .features-content .features-text p {
+    margin-bottom: -50px; }
+  #video {
+    min-height: 500px; }
+  #works .works-title p {
+    margin-left: 0; }
+  #faq .single-item img {
+    max-width: 70%;
+    margin: 0 auto; }
+  #appStore h2 {
+    font-size: 59px; } }
+
+@media (max-width: 575px) {
+  #features .features-title p {
+    margin-right: 0; }
+  #video {
+    width: 85%;
+    margin: 0 auto; }
+    #video .video-content h2 {
+      font-size: 24px;
+      margin-left: 0; }
+  #testimonial .testimonial-active p {
+    font-size: 18px; }
+  #screenShot .screen-title p {
+    font-size: 18px; }
+  #screenShot .screen-title h2 {
+    font-size: 40px; }
+  #faq .faq-title p {
+    font-size: 18px; }
+  #blog .blog-post .blog-content {
+    margin: 0 96px; }
+    #blog .blog-post .blog-content .text-muted {
+      font-size: 11px; }
+  #subscribe {
+    overflow: hidden !important; }
+    #subscribe .subscribe-field {
+      width: 90%;
+      margin: 0 auto; }
+  #appStore h2 {
+    font-size: 48px; }
+  .row {
+    margin: 0; }
+  #numbering .download-app h2::after {
+    display: none;
+    visibility: hidden; } }
+
+@media (max-width: 569px) {
+  #banner .banner-content h1 {
+    font-size: 42px; }
+  #banner .banner-btn .btn {
+    border: 1px solid #fff;
+    height: 56px;
+    padding: 19px 23px;
+    border-radius: 50px;
+    letter-spacing: 0;
+    font-size: 14px; }
+  #faq .logo-content p {
+    font-size: 28px; }
+  #blog .blog-post .blog-content {
+    margin: 0 38px; } }
+
+@media (max-width: 536px) {
+  #footer p {
+    font-size: 12px; } }
+
+@media (max-width: 490px) {
+  #banner .banner-content h1 {
+    font-size: 33px;
+    padding-bottom: 10px; }
+  #banner .shap .shap1 {
+    left: 73%; }
+  #blog .blog-content.text-left.px-5.py-4.shadow-lg {
+    margin: -20px 47px; }
+  #works .first-content h3 {
+    font-size: 25px; } }
+
+@media (max-width: 475px) {
+  #works .first-content p {
+    font-size: 16px; }
+  #appStore h2 {
+    font-size: 39px; }
+  #footer p {
+    font-size: 10px; } }
+
+@media (max-width: 425px) {
+  #blog .blog-content.text-left.px-5.py-4.shadow-lg {
+    margin: -19px 12px; }
+  .btn {
+    height: 56px;
+    padding: 13px 23px; }
+  #subscribe .subscribe-field {
+    width: 100%; } }
+
+@media (max-width: 411px) {
+  #banner .banner-content p {
+    font-size: 21px;
+    line-height: 1.4; }
+  #features .features-title h2 {
+    font-size: 40px; }
+  #features .features-title p {
+    font-size: 15px; }
+  #works .works-title p {
+    font-size: 19px; }
+  #works .first-content p {
+    font-size: 13px; }
+  #pricing .pricing-title p {
+    font-size: 20px; }
+  #screenShot .screen-title p {
+    font-size: 15px; }
+  #faq .faq-title p {
+    font-size: 16px; }
+  #blog .blog-title p {
+    font-size: 20px; } }
+
+@media (max-width: 405px) {
+  #banner .banner-content h1 {
+    font-size: 28px; }
+  #banner .banner-content p {
+    font-size: 18px; }
+  #footer p {
+    font-size: 17px; }
+  #pricing .pricing-title p {
+    font-size: 17px; }
+  #screenShot .screen-title p {
+    font-size: 14px; }
+  #faq .logo-content p {
+    line-height: 1.5; }
+  #blog .blog-title p {
+    font-size: 18px; }
+  #appStore h2 {
+    font-size: 32px; }
+  #blog .blog-post .blog-content {
+    margin: 0 7px; } }
+
+@media (max-width: 378px) {
+  #works .works-title p {
+    font-size: 15px; }
+  #blog .blog-title h2 {
+    font-size: 43px; } }
+
+@media (max-width: 360px) {
+  #banner .btn2 {
+    padding: 17px 17px !important; }
+  #banner {
+    min-height: 545px; }
+  #banner .banner-content h1 {
+    font-size: 23px;
+    line-height: 1.5; }
+  #banner .banner-content p {
+    font-size: 16px; }
+  #features .features-title h2 {
+    font-size: 35px; }
+  #works .works-title h2 {
+    font-size: 39px; }
+  #works .first-content h3 {
+    font-size: 19px; }
+  #pricing .pricing-title p {
+    font-size: 15px; }
+  #screenShot .screen-title h2 {
+    font-size: 36px; }
+  #faq .logo-content p {
+    font-size: 19px; }
+  #blog .blog-title h2 {
+    font-size: 36px; }
+  #blog .blog-title p {
+    font-size: 16px; }
+  #blog .blog-content.text-left.px-5.py-4.shadow-lg {
+    margin: -19px -3px; }
+  #works .first-content h3 {
+    font-size: 18px; }
+  #subscribe .subscribe-field a.btn4 {
+    padding: 26px 4px; }
+  #appStore h2 {
+    font-size: 30px; } }
+
+@media (max-width: 330px) {
+  #banner .banner-btn .btn {
+    padding: 19px 18px; }
+  #banner .btn2 {
+    padding: 17px 13px !important; }
+  .btn3 {
+    padding: 15px 16px; }
+  #subscribe .text-light {
+    font-size: 16px; } }
